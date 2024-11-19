@@ -9,4 +9,4 @@ if __name__ == '__main__':
         .get_products_by_keyword('milk')
 
     JsonStore() \
-        .save(products, 'output/products.json')
+        .save(products, 'products.json')
