@@ -31,6 +31,7 @@ pip install -r requirements.txt
 ### Selenium Driver Installation
 
 > Project is based on Chrome
+> 
 > Driver and Executable should have the same version
 
 ### Start the script
